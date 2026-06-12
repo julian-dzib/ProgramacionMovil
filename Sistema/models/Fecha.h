@@ -6,3 +6,4 @@ struct Fecha {
     int anio;
 };
 #endif // FECHA_H
+//editado desdede github
