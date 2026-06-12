@@ -25,7 +25,7 @@ struct Producto
     void mostrar () const {
         //LLamar a sus atributos
     }
-    
+    //
 
 };
 
