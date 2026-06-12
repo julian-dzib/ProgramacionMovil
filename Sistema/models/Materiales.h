@@ -1,10 +1,10 @@
-#ifndef PRODUCTO_H
-#define PRODUCTO_H
+#ifndef MATERIALES_H
+#define MATERIALES_H
 
 #include <string>
 #include "Fecha.h"
 using namespace std;
-struct Producto
+struct Materiales
 {
 /*
     Estructura de mi producto

@@ -19,6 +19,12 @@ struct Producto
     int precio;
     Fecha fechaCaducidad;
     /* data */
+
+
+    //definir un metodo - mostrar los datos del producto
+    void mostrar () const {
+        //LLamar a sus atributos
+    }
     
 
 };
